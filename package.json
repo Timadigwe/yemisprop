@@ -1,0 +1,47 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~46.0.21",
+    "expo-status-bar": "~1.4.0",
+    "react": "18.0.0",
+    "react-native": "0.69.9",
+    "axios": "0.21.1",
+    "redux": "^4.0.0",
+    "expo-av": "~12.0.4",
+    "firebase": "^7.24.0",
+    "@rneui/base": "4.0.0-rc.7",
+    "react-redux": "8.0.2",
+    "@types/react": "18.0.0",
+    "@rneui/themed": "*",
+    "expo-location": "~14.3.0",
+    "redux-persist": "*",
+    "expo-constants": "~13.2.4",
+    "@reduxjs/toolkit": "*",
+    "@types/react-dom": "18.0.0",
+    "react-native-maps": "0.31.1",
+    "@expo/vector-icons": "^13.0.0",
+    "react-native-paper": "4.9.2",
+    "react-native-cheerio": "^1.0.0-rc.4",
+    "react-native-screens": "~3.15.0",
+    "react-native-webview": "11.23.0",
+    "@react-navigation/stack": "*",
+    "@react-navigation/native": "*",
+    "react-native-gesture-handler": "~2.5.0",
+    "@react-navigation/bottom-tabs": "*",
+    "react-native-avatar-generator": "*",
+    "@react-navigation/native-stack": "*",
+    "react-native-safe-area-context": "4.3.1",
+    "@react-native-community/geolocation": "*",
+    "@react-native-async-storage/async-storage": "~1.17.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
